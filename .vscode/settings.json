@@ -1,0 +1,6 @@
+{
+  "workbench.browser.openLocalhostLinks": true,
+  "terminal.integrated.env.osx": {
+    "BROWSER": "none"
+  }
+}

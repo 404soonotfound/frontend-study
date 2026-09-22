@@ -1,0 +1,13 @@
+.container {
+  height: 100%;
+  max-height: 500px;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-bg);
+  min-height: 0;
+}
+
+.list {
+  flex: 1 1 auto;
+  overflow-y: auto;
+}
